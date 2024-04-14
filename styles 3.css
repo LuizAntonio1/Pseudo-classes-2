@@ -1,0 +1,22 @@
+*.{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;}
+
+   /* input:checked {
+        width: 100px;
+        height: 100px;
+    }*/
+
+    /*input:focus {
+        border:1px solid red;
+        outline:none ;
+    }*/
+
+
+.container :not(.excluido) {
+
+    color: red;
+}
+
+   

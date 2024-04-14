@@ -1,0 +1,27 @@
+*.{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;}
+
+   /* input:checked {
+        width: 100px;
+        height: 100px;
+    }*/
+
+    /*input:focus {
+        border:1px solid red;
+        outline:none ;
+    }*/
+
+
+ li:nth-child(1) {
+
+    color: red;
+}
+ 
+/* li:nth-last-child(1) {
+
+    color: blue;
+} */
+
+   
